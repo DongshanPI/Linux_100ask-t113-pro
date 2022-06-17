@@ -1,0 +1,24 @@
+[submodule "u-boot"]
+	path = u-boot
+	url = https://e.coding.net/weidongshan/100ask_t113-pro/u-boot-2018.git
+[submodule "linux"]
+	path = linux
+	url = https://e.coding.net/weidongshan/100ask_t113-pro/linux-5.4.git
+[submodule "spl"]
+	path = spl
+	url = https://e.coding.net/weidongshan/100ask_t113-pro/spl-pub.git
+[submodule "rtos-dsp"]
+	path = rtos-dsp
+	url = https://e.coding.net/weidongshan/100ask_t113-pro/rtos-dsp.git
+[submodule "toolchain"]
+	path = toolchain
+	url = https://e.coding.net/weidongshan/100ask_t113-pro/toolchain.git
+[submodule "Tina-pack-tools"]
+	path = Tina-pack-tools
+	url = https://gitee.com/weidongshan/Tina-pack-tools.git
+[submodule "DevelopmentEnvConf"]
+	path = DevelopmentEnvConf
+	url = https://e.coding.net/weidongshan/DevelopmentEnvConf
+[submodule "busybox"]
+	path = busybox
+	url = https://gitee.com/weidongshan/busybox
